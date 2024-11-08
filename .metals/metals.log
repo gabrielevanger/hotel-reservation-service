@@ -2812,3 +2812,6 @@ nov. 08, 2024 6:58:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint noti
 INFORMAÇÕES: Unsupported notification method: $/setTrace
 nov. 08, 2024 7:08:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFORMAÇÕES: Unsupported notification method: $/setTrace
+2024.11.08 19:20:50 INFO  compiling root (1 scala source)
+2024.11.08 19:20:50 WARN  Invalid text document uri received from build server: file:///C:/Users/User/hotel-bookinghotel-booking/src/main/scala/services/ReservationServiceTest.scala
+2024.11.08 19:20:50 INFO  time: compiled root in 0.76s

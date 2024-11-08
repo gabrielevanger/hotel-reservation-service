@@ -1,7 +1,7 @@
 package utils
 
 import spray.json.{DeserializationException, JsString, JsValue, JsonFormat, RootJsonFormat}
-import spray.json.DefaultJsonProtocol._  // Necessário para jsonFormat4
+import spray.json.DefaultJsonProtocol._ 
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import models.Reservation
