@@ -14,8 +14,8 @@
 # Passo a Passo para Instalação e Execução
 
 # 1. Clone o Repositório e Entre no Diretório
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/gabrielevanger/hotel-reservation-service.git
+cd hotel-reservation-service
 
 # 2. Atualize as Dependências
 sbt update
