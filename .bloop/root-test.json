@@ -23,8 +23,8 @@
             "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\akka\\akka-stream_2.13\\2.6.18\\akka-stream_2.13-2.6.18.jar",
             "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\akka\\akka-http-spray-json_2.13\\10.2.7\\akka-http-spray-json_2.13-10.2.7.jar",
             "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\slick\\slick_2.13\\3.3.3\\slick_2.13-3.3.3.jar",
-            "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\h2database\\h2\\1.4.200\\h2-1.4.200.jar",
             "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\megard\\akka-http-cors_2.13\\1.1.3\\akka-http-cors_2.13-1.1.3.jar",
+            "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\h2database\\h2\\1.4.200\\h2-1.4.200.jar",
             "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\qos\\logback\\logback-core\\1.2.3\\logback-core-1.2.3.jar",
             "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\slf4j\\slf4j-api\\1.7.32\\slf4j-api-1.7.32.jar",
             "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\akka\\akka-actor_2.13\\2.6.18\\akka-actor_2.13-2.6.18.jar",
@@ -268,23 +268,6 @@
                     ]
                 },
                 {
-                    "organization": "com.h2database",
-                    "name": "h2",
-                    "version": "1.4.200",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "h2",
-                            "path": "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\h2database\\h2\\1.4.200\\h2-1.4.200.jar"
-                        },
-                        {
-                            "name": "h2",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\h2database\\h2\\1.4.200\\h2-1.4.200-sources.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "ch.megard",
                     "name": "akka-http-cors_2.13",
                     "version": "1.1.3",
@@ -298,6 +281,23 @@
                             "name": "akka-http-cors_2.13",
                             "classifier": "sources",
                             "path": "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\megard\\akka-http-cors_2.13\\1.1.3\\akka-http-cors_2.13-1.1.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.h2database",
+                    "name": "h2",
+                    "version": "1.4.200",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "h2",
+                            "path": "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\h2database\\h2\\1.4.200\\h2-1.4.200.jar"
+                        },
+                        {
+                            "name": "h2",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\User\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\h2database\\h2\\1.4.200\\h2-1.4.200-sources.jar"
                         }
                     ]
                 },

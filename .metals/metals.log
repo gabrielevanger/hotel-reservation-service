@@ -2815,3 +2815,33 @@ INFORMAÇÕES: Unsupported notification method: $/setTrace
 2024.11.08 19:20:50 INFO  compiling root (1 scala source)
 2024.11.08 19:20:50 WARN  Invalid text document uri received from build server: file:///C:/Users/User/hotel-bookinghotel-booking/src/main/scala/services/ReservationServiceTest.scala
 2024.11.08 19:20:50 INFO  time: compiled root in 0.76s
+nov. 08, 2024 7:23:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+2024.11.08 19:25:06 INFO  running 'C:\Users\User\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin11-binaries\releases\download\jdk-11.0.25%252B9\OpenJDK11U-jdk_x64_windows_hotspot_11.0.25_9.zip\jdk-11.0.25+9\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\User\AppData\Local\Temp\metals2733660159342431694\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.08 19:25:08 INFO  [info] welcome to sbt 1.10.5 (Eclipse Adoptium Java 11.0.25)
+2024.11.08 19:25:08 INFO  [info] loading settings for project hotel-bookinghotel-booking-build-build from metals.sbt ...
+2024.11.08 19:25:09 INFO  [info] loading project definition from C:\Users\User\hotel-bookinghotel-booking\project\project
+2024.11.08 19:25:09 INFO  [info] loading settings for project hotel-bookinghotel-booking-build from metals.sbt ...
+2024.11.08 19:25:09 INFO  [info] loading project definition from C:\Users\User\hotel-bookinghotel-booking\project
+2024.11.08 19:25:12 INFO  [success] Generated .bloop\hotel-bookinghotel-booking-build.json
+2024.11.08 19:25:12 INFO  [success] Total time: 3 s, completed 8 de nov de 2024 19:25:13
+2024.11.08 19:25:16 INFO  [info] loading settings for project root from build.sbt ...
+2024.11.08 19:25:16 INFO  [info] set current project to hotel-booking (in build file:/C:/Users/User/hotel-bookinghotel-booking/)
+2024.11.08 19:25:16 INFO  [success] Generated .bloop\root.json
+2024.11.08 19:25:16 INFO  [success] Generated .bloop\root-test.json
+2024.11.08 19:25:16 INFO  [success] Total time: 1 s, completed 8 de nov de 2024 19:25:17
+2024.11.08 19:25:17 INFO  time: ran 'sbt bloopInstall' in 10s
+2024.11.08 19:25:17 INFO  Disconnecting from Bloop session...
+2024.11.08 19:25:17 INFO  Shut down connection with build server.
+2024.11.08 19:25:17 INFO  Shut down connection with build server.
+2024.11.08 19:25:17 INFO  Attempting to connect to the build server...
+2024.11.08 19:25:17 INFO  Found a Bloop server running
+2024.11.08 19:25:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\User\hotel-bookinghotel-booking\.metals\bsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.08 19:25:18 INFO  Attempting to connect to the build server...
+2024.11.08 19:25:18 INFO  Found a Bloop server running
+2024.11.08 19:25:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\User\hotel-bookinghotel-booking\project\.metals\bsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.08 19:25:18 INFO  time: Connected to build server in 1.31s
+2024.11.08 19:25:18 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.08 19:25:18 INFO  running doctor check
+2024.11.08 19:25:18 INFO  java targets: hotel-bookinghotel-booking-build, root-test, root
+2024.11.08 19:25:20 INFO  time: indexed workspace in 1.99s
